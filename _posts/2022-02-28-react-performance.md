@@ -2,9 +2,7 @@
 layout: post
 title: React Performance
 subtitle: Tips and best practices for improving the performance of React applications
-gh-repo: fr4nsg/fr4nsg.github.io
-gh-badge: [star, fork, follow]
-tags: [test]
+tags: [react, performance, optimization]
 comments: false
 ---
 
